@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "SUPER_BUYER_FK",
+    "Attributes": 0,
+    "Table": "BUYER",
+    "ForeignTable": "BUYER",
+    "Fields": [
+      {
+        "Name": "BuyerName",
+        "ForeignName": "Supervisor"
+      }
+    ]
+  }
+}

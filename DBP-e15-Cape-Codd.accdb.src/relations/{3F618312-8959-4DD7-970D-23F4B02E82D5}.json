@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{3F618312-8959-4DD7-970D-23F4B02E82D5}",
+    "Attributes": 0,
+    "Table": "SKU_DATA",
+    "ForeignTable": "ORDER_ITEM",
+    "Fields": [
+      {
+        "Name": "SKU",
+        "ForeignName": "SKU"
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "2023-09-11 10:11:54 AM",
+    "FullExportDate": "2023-09-11 10:11:54 AM",
+    "OptionsHash": "2deb0d2",
+    "LastMergedCommit": "",
+    "Components": {
+      "DB Connections": {
+        "db-connection.json": {
+        }
+      },
+      "DB Properties": {
+        "dbs-properties.json": {
+          "FileHash": "bd6ea05",
+          "ExportDate": "2023-09-11 10:11:52 AM",
+          "SourceModified": "2023-09-11 10:11:52 AM",
+          "FilePropertiesHash": "2d25ca5"
+        }
+      },
+      "Doc Properties": {
+        "documents.json": {
+          "FileHash": "5a1ec18",
+          "ExportDate": "2023-09-11 10:11:54 AM",
+          "SourceModified": "2023-09-11 10:11:54 AM",
+          "FilePropertiesHash": "8a3180a"
+        }
+      },
+      "Hidden Attributes": {
+        "hidden-attributes.json": {
+        }
+      },
+      "Nav Pane Groups": {
+        "nav-pane-groups.json": {
+          "FileHash": "08c54c7",
+          "ExportDate": "2023-09-11 10:11:54 AM",
+          "SourceModified": "2023-09-11 10:11:54 AM",
+          "FilePropertiesHash": "5bfd75c"
+        }
+      },
+      "Proj Properties": {
+        "proj-properties.json": {
+        }
+      },
+      "Project": {
+        "project.json": {
+          "FileHash": "9fe41ad",
+          "ExportDate": "2023-09-11 10:11:52 AM",
+          "SourceModified": "2023-09-11 10:11:52 AM",
+          "FilePropertiesHash": "bf72200"
+        }
+      },
+      "Queries": {
+        "ALTER-BUYER-Recursive-Relationship.bas": {
+          "FileHash": "2966a09",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "3ce99ec"
+        },
+        "SQL-Query-CH02-01.bas": {
+          "FileHash": "adc4f13",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "fe404c0"
+        },
+        "SQLQuery-CH02-43-Modified-For-Microsoft-Access.bas": {
+          "FileHash": "22ac59c",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "f4ee8cb"
+        },
+        "SQL-Query-CH02-52-Modified-For-Microsoft-Access.bas": {
+          "FileHash": "a7ac8b5",
+          "ExportDate": "2023-09-11 10:11:54 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "40dbc36"
+        },
+        "SQL-Query-CH02-71.bas": {
+          "FileHash": "cbc6874",
+          "ExportDate": "2023-09-11 10:11:54 AM",
+          "SourceModified": "2023-09-11 10:11:54 AM",
+          "FilePropertiesHash": "507f771"
+        }
+      },
+      "Relations": {
+        "{3F618312-8959-4DD7-970D-23F4B02E82D5}.json": {
+          "FileHash": "fefd208",
+          "ExportDate": "2023-09-11 10:11:54 AM",
+          "SourceModified": "2023-09-11 10:11:54 AM",
+          "FilePropertiesHash": "10d56f1"
+        },
+        "BUYERSKU_DATA.json": {
+          "FileHash": "ecf4c5f",
+          "ExportDate": "2023-09-11 10:11:54 AM",
+          "SourceModified": "2023-09-11 10:11:54 AM",
+          "FilePropertiesHash": "bf1a730"
+        },
+        "RETAIL_ORDERORDER_ITEM.json": {
+          "FileHash": "f29f687",
+          "ExportDate": "2023-09-11 10:11:54 AM",
+          "SourceModified": "2023-09-11 10:11:54 AM",
+          "FilePropertiesHash": "e8cc13e"
+        },
+        "SKU_DATA_Relationship.json": {
+          "FileHash": "2d58cce",
+          "ExportDate": "2023-09-11 10:11:54 AM",
+          "SourceModified": "2023-09-11 10:11:54 AM",
+          "FilePropertiesHash": "6596649"
+        },
+        "SUPER_BUYER_FK.json": {
+          "FileHash": "c95a23a",
+          "ExportDate": "2023-09-11 10:11:54 AM",
+          "SourceModified": "2023-09-11 10:11:54 AM",
+          "FilePropertiesHash": "29fa925"
+        },
+        "WAREHOUSE_Relationship.json": {
+          "FileHash": "e369fdf",
+          "ExportDate": "2023-09-11 10:11:54 AM",
+          "SourceModified": "2023-09-11 10:11:54 AM",
+          "FilePropertiesHash": "10d56f1"
+        }
+      },
+      "Tables": {
+        "BUYER.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "0cd9b4f"
+        },
+        "CATALOG_SKU_2016.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "45ab04f"
+        },
+        "CATALOG_SKU_2017.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "45ab04f"
+        },
+        "CATALOG_SKU_2018.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "45ab04f"
+        },
+        "INVENTORY.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "db3047e"
+        },
+        "ORDER_ITEM.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "2bfa65a"
+        },
+        "RETAIL_ORDER.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "1bc03c2"
+        },
+        "SKU_DATA.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "c21256b"
+        },
+        "WAREHOUSE.xml": {
+          "FileHash": "f01a374",
+          "ExportDate": "2023-09-11 10:11:53 AM",
+          "SourceModified": "2023-09-11 10:11:53 AM",
+          "FilePropertiesHash": "af10554"
+        }
+      },
+      "Themes": {
+        "Office Theme.thmx": {
+          "FileHash": "a274003",
+          "OtherHash": "12d2d0b",
+          "ExportDate": "2023-09-11 10:11:52 AM",
+          "SourceModified": "2023-09-11 10:11:52 AM",
+          "FilePropertiesHash": "0ded11b"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "FileHash": "00420cb",
+          "ExportDate": "2023-09-11 10:11:52 AM",
+          "SourceModified": "2023-09-11 10:11:52 AM",
+          "FilePropertiesHash": "3fa5a57"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "FileHash": "c8d14f7",
+          "ExportDate": "2023-09-11 10:11:52 AM",
+          "SourceModified": "2023-09-11 10:11:52 AM",
+          "FilePropertiesHash": "d04ec85"
+        }
+      }
+    }
+  }
+}

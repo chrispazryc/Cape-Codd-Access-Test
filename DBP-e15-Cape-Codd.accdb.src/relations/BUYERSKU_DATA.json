@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "BUYERSKU_DATA",
+    "Attributes": 256,
+    "Table": "BUYER",
+    "ForeignTable": "SKU_DATA",
+    "Fields": [
+      {
+        "Name": "BuyerName",
+        "ForeignName": "Buyer"
+      }
+    ]
+  }
+}

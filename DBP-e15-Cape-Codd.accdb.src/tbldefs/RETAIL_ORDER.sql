@@ -1,0 +1,8 @@
+﻿CREATE TABLE [RETAIL_ORDER] (
+  [OrderNumber] LONG  CONSTRAINT [RETAIL_ORDER_PK] PRIMARY KEY UNIQUE NOT NULL,
+  [StoreNumber] LONG ,
+  [StoreZIP] VARCHAR (9),
+  [OrderMonth] VARCHAR (12),
+  [OrderYear] SHORT ,
+  [OrderTotal] CURRENCY 
+)

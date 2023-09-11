@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "RETAIL_ORDERORDER_ITEM",
+    "Attributes": 0,
+    "Table": "RETAIL_ORDER",
+    "ForeignTable": "ORDER_ITEM",
+    "Fields": [
+      {
+        "Name": "OrderNumber",
+        "ForeignName": "OrderNumber"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "SKU_DATA_Relationship",
+    "Attributes": 0,
+    "Table": "SKU_DATA",
+    "ForeignTable": "INVENTORY",
+    "Fields": [
+      {
+        "Name": "SKU",
+        "ForeignName": "SKU"
+      }
+    ]
+  }
+}
