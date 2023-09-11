@@ -6,7 +6,7 @@
   "Items": {
     "MergeBuildDate": null,
     "FullBuildDate": null,
-    "ExportDate": "2023-09-11 10:11:54 AM",
+    "ExportDate": "2023-09-11 10:25:57 AM",
     "FullExportDate": "2023-09-11 10:11:54 AM",
     "OptionsHash": "2deb0d2",
     "LastMergedCommit": "",
@@ -128,9 +128,9 @@
       "Tables": {
         "BUYER.xml": {
           "FileHash": "f01a374",
-          "ExportDate": "2023-09-11 10:11:53 AM",
-          "SourceModified": "2023-09-11 10:11:53 AM",
-          "FilePropertiesHash": "0cd9b4f"
+          "ExportDate": "2023-09-11 10:25:44 AM",
+          "SourceModified": "2023-09-11 10:25:44 AM",
+          "FilePropertiesHash": "18875ac"
         },
         "CATALOG_SKU_2016.xml": {
           "FileHash": "f01a374",
